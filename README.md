@@ -3,4 +3,4 @@ Do không truy cập được đường link repository được cung cấp, nê
 
 
 
-[Xem video bài nghiên cứu của nhóm]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/6B3MAO5CAFM?si=6Y43PFH7rZnd7txa))
+[Xem video bài nghiên cứu của nhóm]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/6B3MAO5CAFM?si=6Y43PFH7rZnd7txa)
